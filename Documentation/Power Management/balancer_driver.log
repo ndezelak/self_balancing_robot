@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Nejc\Projects\Projekti 2018\Self balancing robot\Documentation\Power Management\balancer_driver.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Sep 11 07:49:58 2018
+Total elapsed time: 1.545 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9604
+traniter = 9571
+tranpoints = 3613
+accept = 3168
+rejected = 445
+matrix size = 24
+fillins = 24
+solver = Normal
+Matrix Compiler1: 2.69 KB object code size  4.1/2.4/[1.6]
+Matrix Compiler2: off  [1.6]/2.5/1.7
+
